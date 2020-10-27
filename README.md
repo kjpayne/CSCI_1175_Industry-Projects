@@ -2,4 +2,4 @@
 
 Contains assignments from my Industry Projects class
 
-Assignments are from Chapter(s): 28, 32(30)
+Assignments are from Chapters: 28, 32(30), 33(31)
